@@ -1,0 +1,26 @@
+.question-item h2 {
+	font-size: 18px;
+	text-align: left;
+}
+
+.question-item {
+	text-align: left;
+}
+
+.question-item ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+.question-item ul li {
+	margin-bottom: 10px;
+}
+.question-item input[type="checkbox"] {
+	width: 20px;
+	height: 20px;
+	margin-right: 10px;
+}
+.question-item label {
+  display: flex;
+  align-items: center;
+}
